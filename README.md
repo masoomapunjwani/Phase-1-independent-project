@@ -43,6 +43,13 @@ Clone the project using these links depending on your local environment:
 - Make sure your json-server is running for the app to work as intended.
 - The project does not need an internet connection to work because information is fetched from your local server.
 
+### Run tests
+- If json-server is not running, dummy Questions and Answers will be displayed.
+
+### Deployment
+[Link to deployed work](https://masoomapunjwani-commit.github.io/FAQ-page/)
+
+
 
 
 
