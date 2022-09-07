@@ -19,5 +19,18 @@ My portfolio provides my information about me , it shows my picture, It has navb
 
 ![Portfolio Screenshot](./img/portfolio.PNG)
 
+## Getting Started
+
+**To get a local copy up and running follow these steps:**
+
+### Prerequisites
+You need an IDE of your choice (preferably Visual Studio Code).
+You will need a browser (preferably Chrome) to view the webpage.
+You need to have installed npm and JSON-server on your local machine. 
+
+
+
+
+
 
 
