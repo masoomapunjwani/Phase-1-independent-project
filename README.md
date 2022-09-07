@@ -11,6 +11,8 @@ I have made my profile portfolio with my details. In my website where the user c
 - JavaScript
 - API
 
+### Description
 
+My portfolio provides my information about me , it shows my picture, It has navbar, body. It shows my name, my position. It has contact me button, where people can contact me.
 
 
