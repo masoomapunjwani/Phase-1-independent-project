@@ -46,7 +46,7 @@ Clone the project using these links depending on your local environment:
 - If json-server is not running, dummy Questions and Answers will be displayed.
 
 ### Deployment
-[Link to deployed work](https://masoomapunjwani-commit.github.io/FAQ-page/)
+[Link to deployed work](https://masoomapunjwani.github.io/Phase-1-independent-project/)
 
 ## Author
 
