@@ -49,6 +49,11 @@ Clone the project using these links depending on your local environment:
 ### Deployment
 [Link to deployed work](https://masoomapunjwani-commit.github.io/FAQ-page/)
 
+## Author
+
+👤 **Masooma Hasnain**
+
+- GitHub: [@masoomapunjwani-commit](https://github.com/masoomapunjwani-commit)
 
 
 
