@@ -28,6 +28,11 @@ You need an IDE of your choice (preferably Visual Studio Code).
 You will need a browser (preferably Chrome) to view the webpage.
 You need to have installed npm and JSON-server on your local machine. 
 
+### Setup
+Clone the project using these links depending on your local environment:
+- [https](https://github.com/masoomapunjwani/FAQ-page.git) or [ssh](git@github.com:masoomapunjwani/FAQ-page.git)
+
+
 
 
 
