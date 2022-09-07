@@ -17,7 +17,7 @@ My portfolio provides my information about me , it shows my picture, It has navb
 
 ### Screenshot
 
-![Portfolio Screenshot](./img/portfolio.png)
+![Portfolio Screenshot](./img/portfolio.PNG)
 
 
 
