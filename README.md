@@ -36,6 +36,13 @@ Clone the project using these links depending on your local environment:
 - On the root folder, locate the ``index.html`` and open with your IDE
 - Run LiveServer to open the page on your default browser.
 
+- If you haven't installed json-server, use ``npm -i -g json-server`` to install the server on a global scope
+- Open terminal and navigate into the assets folder, run ``ls`` to check if a file ```db.json``` is present then run ``json-server --watch db.json`` to start the server.
+
+### Usage
+- Make sure your json-server is running for the app to work as intended.
+- The project does not need an internet connection to work because information is fetched from your local server.
+
 
 
 
